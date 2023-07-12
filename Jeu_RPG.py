@@ -37,7 +37,7 @@ def Main_menu():
        
      elif choice == "2" :
        
-       print("Cette option n'éxiste pas encore")
+       print("Cette option n'est pas encore existante")
      
      elif choice == "3" :
        
@@ -66,7 +66,7 @@ def about():
            about=input()
        if about=="1":
           print("////////")
-          print("Monster apocalypse a été cree en Janvier 2023 par Younes Abdallaoui et Alae Berrada, en utilisant le langage python.")
+          print("Monster apocalypse a été crée en Janvier 2023 par Younes Abdallaoui, en utilisant les bases des algorithmes en Python.")
           print("////////")
           print("Dans un monde plein de créatures monstrueuses, votre mission est de tuer les trois éternels, Gagrigore à longue barbe en premier lieu, Dexter le clown tueur en deuxième et enfin, l’imbattable Zombie Bigfoot.")
           print("Tout au long du trajet, faites attention à ne pas tomber dans les trous creusés par les monstres, cela réduira vos points de vie, mais ne vous inquiétez pas, vous pouvez aussi retrouver des pansements sur votre chemin pour réaugmenter celles ci.")
